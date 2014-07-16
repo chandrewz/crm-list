@@ -15,11 +15,15 @@
 * [Commence](http://commence.com) | $19/mo
 * [Highrise](http://highrisehq.com) | $24/mo - $99/mo
 * [StackLead](http://stacklead.com) | $29/mo - $449/mo
+* [Zurmo](http://zurmo.com) | $32/mo
 * [SugarCRM](http://sugarcrm.com) | $35/mo - $150/mo
+* [Maximizer](http://maximizer.com) | $49/mo
 * [RelateIQ](http://relateiq.com) | $49/mo - $99/mo
+* [Batchbook](http://batchbook.com) | $55/mo
 * [Close.io](http://close.io) | $59/mo - $299/mo
 * [Banckle.CRM](http://banckle.com) | $59/mo - $1349/mo
 * [WORKetc](http://worketc.com/) | $78/mo - $395/mo
+* [GreenRope](http://greenrope.com) | $129/mo - $449/mo
 * [Infusionsoft](http://infusionsoft.com) | $199/mo - $379/mo
 * [Eloqua](http://eloqua.com) | $2000/mo - $4000/mo
 
