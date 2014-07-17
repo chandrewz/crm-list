@@ -22,6 +22,7 @@
 * [Batchbook](http://batchbook.com) | $55/mo
 * [Close.io](http://close.io) | $59/mo - $299/mo
 * [Banckle.CRM](http://banckle.com) | $59/mo - $1349/mo
+* [Microsoft Dynamics CRM](http://microsoft.com/en-us/dynamics) | $65/mo - $200/mo
 * [WORKetc](http://worketc.com/) | $78/mo - $395/mo
 * [GreenRope](http://greenrope.com) | $129/mo - $449/mo
 * [Infusionsoft](http://infusionsoft.com) | $199/mo - $379/mo
