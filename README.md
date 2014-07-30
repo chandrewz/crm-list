@@ -4,6 +4,7 @@
 * [SuiteCRM](http://suitecrm.com) | Open-source
 * [Zurmo](http://zurmo.org) | Open-source
 * [CapsuleCRM](http://capsulecrm.com) | $0 - $12/mo
+* [JobNimbus](http://www.jobnimbus.com) | $0 - $25/mo
 * [Zoho](http://zoho.com) | $0 - $35/mo
 * [AmoCRM](http://amocrm.com) | $0 - $99/mo
 * [Salesforce](http://salesforce.com) | $5 - $300/mo
