@@ -8,7 +8,9 @@
 * [Pipedrive](http://pipedrive.com) | $9/mo
 * [LanternCRM](http://lanterncrm.com) | $9/mo - $49/mo
 * [AddressTwo](http://addresstwo.com) | $9.95/mo - $49.95/mo
-* [AgileCRM](http://agilecrm.com) | $9.99 - $64.99
+* [AgileCRM](http://agilecrm.com) | $9.99/mo - $64.99/mo
+* [Vtiger CRM](http://vtiger.com) | $12/mo
+* [Onekloud](http://onekloud.com) | $12/mo - $18/mo
 * [Nutshell](http://nutshell.com) | $15/mo
 * [Nimble](http://nimble.com) | $15/mo - $90/mo
 * [OnePageCRM](http://onepagecrm.com) | $15/mo - $90/mo
@@ -19,6 +21,7 @@
 * [PipelineDeals](http://pipelinedeals.com) | $24/mo
 * [Highrise](http://highrisehq.com) | $24/mo - $99/mo
 * [StackLead](http://stacklead.com) | $29/mo - $449/mo
+* [WebCRM](http://webcrm.com) | £18/mo - £41/mo ($30.43/mo - $72.71/mo)
 * [Zurmo](http://zurmo.com) | $32/mo
 * [SugarCRM](http://sugarcrm.com) | $35/mo - $150/mo
 * [Maximizer](http://maximizer.com) | $49/mo
