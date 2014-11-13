@@ -1,6 +1,7 @@
 # List of CRMs
 
 * [Fat Free CRM](http://fatfreecrm.com) | Open-source
+* [EspoCRM](http://www.espocrm.com) | Open-source
 * [SuiteCRM](http://suitecrm.com) | Open-source
 * [Zurmo](http://zurmo.org) | Open-source
 * [CapsuleCRM](http://capsulecrm.com) | $0 - $12/mo
