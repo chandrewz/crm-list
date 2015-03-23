@@ -42,5 +42,6 @@
 * [GreenRope](http://greenrope.com) | $129/mo - $449/mo
 * [Infusionsoft](http://infusionsoft.com) | $199/mo - $379/mo
 * [Eloqua](http://eloqua.com) | $2000/mo - $4000/mo
+* [MagicDesk](http://magicdesk.com/) | $29/mo - $399/lifetime
 
 To add a CRM to the list, send a pull request.
