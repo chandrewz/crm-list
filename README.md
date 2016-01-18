@@ -1,6 +1,7 @@
 # List of CRMs
 
 * [Fat Free CRM](http://fatfreecrm.com) | Open-source
+* [EspoCRM](http://www.espocrm.com) | Open-source
 * [SuiteCRM](http://suitecrm.com) | Open-source
 * [Zurmo](http://zurmo.org) | Open-source
 * [CapsuleCRM](http://capsulecrm.com) | $0 - $12/mo
@@ -41,6 +42,7 @@
 * [GreenRope](http://greenrope.com) | $129/mo - $449/mo
 * [Infusionsoft](http://infusionsoft.com) | $199/mo - $379/mo
 * [Eloqua](http://eloqua.com) | $2000/mo - $4000/mo
+* [MagicDesk](http://magicdesk.com/) | $29/mo - $399/lifetime
 * [OroCRM](http://www.orocrm.com/) | Open-Source
 
 To add a CRM to the list, send a pull request.
