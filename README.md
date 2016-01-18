@@ -41,5 +41,6 @@
 * [GreenRope](http://greenrope.com) | $129/mo - $449/mo
 * [Infusionsoft](http://infusionsoft.com) | $199/mo - $379/mo
 * [Eloqua](http://eloqua.com) | $2000/mo - $4000/mo
+* [OroCRM](http://www.orocrm.com/) | Open-Source
 
 To add a CRM to the list, send a pull request.
